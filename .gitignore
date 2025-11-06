@@ -6,3 +6,4 @@ build/
 *.log
 .venv/
 .cache/
+tmp/
